@@ -1,3 +1,7 @@
+//Nama : Walovi Lestari Nurrafa
+//NPM  : 2015061074
+//PSTI C
+
 package com.company;
 
 class DataMahasiswa{
